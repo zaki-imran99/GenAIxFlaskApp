@@ -1,5 +1,5 @@
 # GenAIxFlaskApp
-A simple AI assistant using Llama LLM and Flask 
+A simple AI assistant using Llama 3,Granite and Mixtral LLMs  and Flask 
 This was in a test environment so running it will need an API key(place is marked in the code)
 Some commands you will need are:
 
